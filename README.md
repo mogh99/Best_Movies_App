@@ -5,5 +5,5 @@ and trailers (youtube). For every movie, the app shows the recommendations, and 
 Moreover, the app allows users to save their favorite movies and see the detail of the favorite movies offline.
 
 
-**Note: ** To use the app you need to have an API_KEY from [themvoiedb.org](https://www.themoviedb.org/). And Insert the API_KEY 
+**Note:** To use the app you need to have an API_KEY from [themvoiedb.org](https://www.themoviedb.org/). And Insert the API_KEY 
 in the code in NetworkUtil.java file. The app can be run and install to any android device with 21Sdk or greater using Android Studio.
