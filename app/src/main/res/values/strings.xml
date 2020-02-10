@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BestMovies</string>
+
+    //Main Page
+    //Categories
+    <string name="main_popular">Popular</string>
+    <string name="main_top_rated">Top Rated</string>
+    <string name="main_up_coming">Up Coming</string>
+    <string name="main_favorite">Favorite</string>
+
+    <string name="main_error_message">Failed to Load, Check your WIFI Connection</string>
+    <string name="main_error_message_favorite">There Are No Favorite Movies Try To Add Some</string>
+
+    //Movie Details Page
+    <string name="detail_recommendations">Recommendations</string>
+    <string name="detail_similar">Similar</string>
+    <string name="detail_user_rating">User Rating:</string>
+    <string name="detail_release_date">Release Date:</string>
+    <string name="detail_reviews">Reviews:</string>
+    <string name="detail_trailers">Trailers:</string>
+    <string name="detail_favorite">Favorite</string>
+
+
+</resources>
