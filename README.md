@@ -1,4 +1,4 @@
-#Best Movies App
+# Best Movies App
 Android app is written in the java programming language. The app uses [themoviedb.org](https://www.themoviedb.org/) API to show three movie categories that are popular, top-rated and coming soon. 
 The details of the movie are also shown a brief description, user rating, release date, and redirect the user for reviews, 
 and trailers (youtube). For every movie, the app shows the recommendations, and similar movies so the user can navigate endlessly between movies. 
