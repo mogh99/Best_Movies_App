@@ -7,3 +7,16 @@ Moreover, the app allows users to save their favorite movies and see the detail 
 
 **Note:** To use the app you need to have an API_KEY from [themvoiedb.org](https://www.themoviedb.org/). And Insert the API_KEY 
 in the code in NetworkUtil.java file. The app can be run and install to any android device with 21Sdk or greater using Android Studio.
+
+## Screenshots
+### Main Page
+<img src="Screenshots/MainPage.png" width="300">
+
+### Movie Details
+<img src="Screenshots/MovieInformation.png" width="300">
+
+### Favorite Button
+<img src="Screenshots/FavoriteButton.png" width="300">
+
+### Favorite Page
+<img src="Screenshots/FavoriteMovie.png" width="300">
